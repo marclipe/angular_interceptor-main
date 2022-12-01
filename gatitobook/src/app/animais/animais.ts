@@ -1,4 +1,5 @@
 export interface Animal {
+  comments: any;
   id: number;
   postDate: Date;
   url: string;
